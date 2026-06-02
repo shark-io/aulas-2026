@@ -1,0 +1,21 @@
+#titulo-principal {
+    color: red;
+    background-color: aliceblue;
+}
+
+#paragraph1 {
+    color: royalblue;
+}
+
+#paragraph2 {
+    color: blue;
+}
+
+#paragraph3 {
+    color: navy;
+}
+
+.paragrafo{
+    text-align: justify;
+    background-color: antiquewhite;
+}
